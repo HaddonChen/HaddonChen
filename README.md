@@ -5,7 +5,7 @@ I'm a high school student learning to code
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [(I don't have one yet)](http://Google.com)
-* 🚀  I'm currently working on [MindSpace (not public yet)](http://Google.com)
+* 🚀  I'm currently working on [MindSpace](https://github.com/HaddonChen/mindspace)
 * 🧠  I'm currently learning basic javascript
 * 👥  I'm open to collaborate on fun gaming projects
 
